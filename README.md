@@ -8,7 +8,7 @@
 
 ---
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+
 
 Like my works and want to support me?
 
@@ -34,14 +34,6 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 ## Requirements
 
 - Basic HTML, CSS
-
-## Developer team of Shaif's Cuisine
-
-- Shaif Arfan
-- Anwar saeed
-- MD Moniruzzaman Sojol
-- Lovekesh Pal
-- Houmayan Rashid Chy
 
 ## Tools Used
 
